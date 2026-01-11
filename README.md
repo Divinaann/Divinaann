@@ -26,7 +26,7 @@ I'm a passionate Computer Science student with a strong interest in **Artificial
 
 ### 📫 How to Reach Me
 - GitHub: [@Divinaann](https://github.com/Divinaann)  
-- LinkedIn: *(add your LinkedIn profile link here)*  
+- LinkedIn: *([@divina-ann-shaji](https://www.linkedin.com/in/divina-ann-shaji-a5a611307/))*  
 
 ### ⚡ Fun Fact
 I believe **consistent small steps beat last-minute effort** 🚀  
